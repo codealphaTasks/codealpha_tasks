@@ -1,0 +1,79 @@
+@media  only screen and (max-width:430px)
+{
+     .dot{
+      position: relative;
+      left: 970px;
+        
+        
+        display: flex;
+        margin-left:auto ;
+     }
+     .green{
+        position: relative;
+        right: 1000px;
+        top: 600px;
+        display: flex;
+        margin-right:auto ;
+     }
+     
+     .apps{
+        position: relative;
+        bottom: 55px;
+     }
+     .btn-con{
+        width: 230px;
+     }
+     .con{
+        
+        position: relative;
+        right: 5000px;
+        /* border: 5px solid red; */
+        
+     }
+     .item{
+        position: relative;
+        right: 105px;
+        top: 500px;
+     }
+     .item{
+        border-radius: 10px;
+     }
+     .footer{
+        position: relative;
+        top: 1600px;
+     }
+     .foot{
+        position: relative;
+        top: 1550px;
+        right: 35px;
+        padding: 20px;
+     }
+   .ho{
+      position: relative;
+      right: 120px;
+      border: non;
+      width: 200px;
+      top: 500px;
+   }
+
+   .rt{
+      position: relative;
+      right: 190px;
+      width: 340px;
+      top: 500px;
+      padding: 0 5px;
+   }
+   .you{
+      width: 320px;
+      
+      
+      /* border: 5px solid red; */
+  }
+ 
+  #t{
+   width: 200px;
+   position: relative;
+   left: 44px;
+  }
+}
+
